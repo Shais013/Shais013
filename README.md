@@ -19,7 +19,7 @@
 shais = {
     "role"       : "AI Engineer & Data Scientist",
     "education"  : ["B.Tech CSE @ DYPIU", "BS Data Science @ IIT Madras"],
-    "now"        : "IoT Predictive Maintenance Intern @ Infotact Solutions",
+    "now"        : "DS/ML & Stats Intern @ Infotact Solutions",
     "builds"     : ["RAG pipelines", "ML systems", "real-world AI apps"],
     "belief"     : "If it doesn't work outside a notebook, it doesn't count."
 }
@@ -31,7 +31,7 @@ shais = {
 
 ## Experience
 
-**AI/ML Intern · Infotact Solutions** &nbsp;`2025 · Ongoing`
+**DS/ML & Stats Intern · Infotact Solutions** &nbsp;`2025 · Ongoing`
 
 Building an end-to-end predictive maintenance system on the AI4I 2020 industrial sensor dataset.
 
@@ -128,12 +128,15 @@ Marathi voice app for rural farmers — crop advice, market prices, weather. Bui
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shais013&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=F0A500&title_color=F0A500&text_color=8B949E&rank_icon=github" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shais013&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=F0A500&title_color=F0A500&text_color=8B949E&rank_icon=github" height="155"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shais013&theme=github_dark&hide_border=true&layout=compact&title_color=F0A500&text_color=8B949E" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shais013&theme=transparent&hide_border=true&layout=compact&title_color=F0A500&text_color=8B949E" height="155"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=shais013&theme=transparent&hide_border=true&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&sideLabels=8B949E&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
 
 </div>
-
 ---
 
 <div align="center">
