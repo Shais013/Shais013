@@ -31,7 +31,7 @@ shais = {
 
 ## Experience
 
-**DS & ML Intern · Infotact Solutions** &nbsp;`2025 · Ongoing`
+**DS/ML & Stats Intern · Infotact Solutions** &nbsp;`2025 · Ongoing`
 
 Building an end-to-end predictive maintenance system on the AI4I 2020 industrial sensor dataset.
 
@@ -135,6 +135,10 @@ Marathi voice app for rural farmers — crop advice, market prices, weather. Bui
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=shais013&theme=transparent&hide_border=true&ring=F0A500&fire=F0A500&currStreakLabel=F0A500&sideLabels=8B949E&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shais013&theme=react-dark&hide_border=true&area=true&line=F0A500&point=F0A500&color=8B949E&area_color=F0A500" width="95%"/>
 
 </div>
 ---
