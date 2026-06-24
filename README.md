@@ -31,7 +31,7 @@ shais = {
 
 ## Experience
 
-**DS/ML & Stats Intern · Infotact Solutions** &nbsp;`2025 · Ongoing`
+**DS & ML Intern · Infotact Solutions** &nbsp;`2025 · Ongoing`
 
 Building an end-to-end predictive maintenance system on the AI4I 2020 industrial sensor dataset.
 
